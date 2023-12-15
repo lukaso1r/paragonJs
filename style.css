@@ -1,0 +1,17 @@
+*{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+}
+
+
+#tablica{
+    width: 40%;
+    margin: 0 auto;
+
+}
+
+#kontener > tr:nth-child(1){
+    background-color: rgba(128, 128, 128, 0.344);
+    border: 1px solid grey;
+    padding: 1%;
+}
